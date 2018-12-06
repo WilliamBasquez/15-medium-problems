@@ -83,7 +83,7 @@ A) Are we going to return the same root, or a new tree?
 B) IDEAL as before, helped me get to a concrete understanding of the problem and solution
 C) Examples were helpful when trying to resolve the problem
 
-15) Complex Number Multiplication
+15) Find largest value in each tree row
 
 A) No questions
 B) IDEAL helped me understand what I had to do
