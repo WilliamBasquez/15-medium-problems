@@ -66,24 +66,24 @@ A) What is recursive approach is 'better' than iterative?
 B) I was not able to find an iterative solution, IDEAL did not helped much
 C) These steps only helped me understand the problem, but i could not come to a solution
 
-12) Print Binary Tree
+12) Print Binary Tree (Could not solve / code)
 A) Can we assume that the tree can be empty? Does it have to a be within a specific running time/ space complexity? Can we assume that we know the height of the tree?
 B) IDEAL was a good start in solving this problem, but I feel that Duke's was a betterway to solve a proble, in my opinion
 C) Was a great way to visualize the problem as well as the solution
 
-13)  Complex Number Multiplication
+13)  Complex Number Multiplication (Some code)
 
 A) No questions
 B) IDEAL helped me understand the problem, but it was a bit hard to come up with an answer using it
 C) These explained a bit more the problem and was able to work through the problem more
 
-14) Binary Tree Pruning
-
+14) Binary Tree Pruning (Some code)
+ 
 A) Are we going to return the same root, or a new tree?
 B) IDEAL as before, helped me get to a concrete understanding of the problem and solution
 C) Examples were helpful when trying to resolve the problem
 
-15) Find largest value in each tree row
+15) Find largest value in each tree row (could not solve)
 
 A) No questions
 B) IDEAL helped me understand what I had to do
