@@ -43,11 +43,19 @@ B) IDEAL helped me to find a way and to come to the conclusion that I needed a m
 C) These steps explained a little more the process of solving the problem, as it's pictures and examples made me come up with even more cases where my code can solve such problems.
 
 8) Binary Tree Inorder Traversal
+
 A) What if the recursive solution is 'better'? What happens if the tree is empty?
 B) I had so look up the answer for this problem, since i could not find a solution
 C) Duke made me do examples, but i still could not solve this problem
 
 9) Keys and Rooms
+
 A) No questions
 B) IDEAL did not made the problem more clear, as the problem itself is very explanatory
 C) Same as with IDEAL, but it helped me code a solution and test it
+
+10) Single Element in a Sorted Array
+
+A) What happens if the array only has 1 item? Can we assume the len of the array is always odd?
+B) IDEAL was a good guideline to get started
+C) These steps took me a step further compared to IDEAL
