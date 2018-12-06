@@ -70,3 +70,21 @@ C) These steps only helped me understand the problem, but i could not come to a 
 A) Can we assume that the tree can be empty? Does it have to a be within a specific running time/ space complexity? Can we assume that we know the height of the tree?
 B) IDEAL was a good start in solving this problem, but I feel that Duke's was a betterway to solve a proble, in my opinion
 C) Was a great way to visualize the problem as well as the solution
+
+13)  Complex Number Multiplication
+
+A) No questions
+B) IDEAL helped me understand the problem, but it was a bit hard to come up with an answer using it
+C) These explained a bit more the problem and was able to work through the problem more
+
+14) Binary Tree Pruning
+
+A) Are we going to return the same root, or a new tree?
+B) IDEAL as before, helped me get to a concrete understanding of the problem and solution
+C) Examples were helpful when trying to resolve the problem
+
+15) Complex Number Multiplication
+
+A) No questions
+B) IDEAL helped me understand what I had to do
+C) Duke's 7 steps helped me work on it a bit more in detail
