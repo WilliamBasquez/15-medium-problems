@@ -66,4 +66,7 @@ A) What is recursive approach is 'better' than iterative?
 B) I was not able to find an iterative solution, IDEAL did not helped much
 C) These steps only helped me understand the problem, but i could not come to a solution
 
-12) 
+12) Print Binary Tree
+A) Can we assume that the tree can be empty? Does it have to a be within a specific running time/ space complexity? Can we assume that we know the height of the tree?
+B) IDEAL was a good start in solving this problem, but I feel that Duke's was a betterway to solve a proble, in my opinion
+C) Was a great way to visualize the problem as well as the solution
