@@ -59,3 +59,11 @@ C) Same as with IDEAL, but it helped me code a solution and test it
 A) What happens if the array only has 1 item? Can we assume the len of the array is always odd?
 B) IDEAL was a good guideline to get started
 C) These steps took me a step further compared to IDEAL
+
+11) Iterative Inorder Traversal
+
+A) What is recursive approach is 'better' than iterative?
+B) I was not able to find an iterative solution, IDEAL did not helped much
+C) These steps only helped me understand the problem, but i could not come to a solution
+
+12) 
