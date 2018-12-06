@@ -3,8 +3,8 @@
 1) Range Sum of BST
 
 A) Can the tree be empty? what do we do in this case?
-B) IDEAL helped me by making me rationalize this problem, in terms of the data structure I'm working with, I opted to use recursion to solve this problem; and now looking back at my answer and the given one, I could have used a better approach.
-C) This 'guideline' was more explicit, in terms where it made me write what I did, some examples, it made me look for cases where my code was not going to work, and mostly it made me look for a better answer, although I came up with the same answer.
+B) I could not solve this problem, so I looked up a way to traverse a tree iterative in order to use this and solve the problem, I got the answer, but it was not my code
+C) Same as IDEAL, could not come to an answer
 
 2) Maximum binary tree
 
@@ -35,3 +35,19 @@ C) This always helps me to either make sure I'm doing the write thing, or it ens
 A) Can i implement my own function?
 B) IDEAL was not a very good help in this especific problem, and it confused me a bit more
 C) This helped a bit more, because it made me write down the examples and what i did and how i did it
+
+7) Top K Frequent Elements
+
+A) Do we care about space complexity?
+B) IDEAL helped me to find a way and to come to the conclusion that I needed a more explicit way to solve this problem, and like other times, this is a good base to solve problems.
+C) These steps explained a little more the process of solving the problem, as it's pictures and examples made me come up with even more cases where my code can solve such problems.
+
+8) Binary Tree Inorder Traversal
+A) What if the recursive solution is 'better'? What happens if the tree is empty?
+B) I had so look up the answer for this problem, since i could not find a solution
+C) Duke made me do examples, but i still could not solve this problem
+
+9) Keys and Rooms
+A) No questions
+B) IDEAL did not made the problem more clear, as the problem itself is very explanatory
+C) Same as with IDEAL, but it helped me code a solution and test it
