@@ -1,0 +1,5 @@
+Top K Frequent Elements
+
+A) Do we care about space complexity?
+B) IDEAL helped me to find a way and to come to the conclusion that I needed a more explicit way to solve this problem, and like other times, this is a good base to solve problems.
+C) These steps explained a little more the process of solving the problem, as it's pictures and examples made me come up with even more cases where my code can solve such problems.
