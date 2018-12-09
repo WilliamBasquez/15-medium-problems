@@ -1,0 +1,7 @@
+# 15-medium-problems
+
+1) Range Sum of BST
+
+A) Can the tree be empty? what do we do in this case?
+B) I could not solve this problem, so I looked up a way to traverse a tree iterative in order to use this and solve the problem, I got the answer, but it was not my code
+C) Same as IDEAL, could not come to an answer
